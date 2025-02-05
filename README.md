@@ -1,6 +1,6 @@
 # Hi, I'm Eliott 👋
 
-I'm a student of [The Odin Project](https://www.theodinproject.com/), currently learning **HTML**, **CSS**, and **JavaScript**. I'm passionate about building web projects, improving my coding skills, and contributing to open-source.
+I'm a student of [The Odin Project](https://www.theodinproject.com/), currently learning **HTML**, **CSS**, and **JavaScript**. I'm an aspiring Full stack web developper with an interest for story-telling and writing
 
 ## 🛠️ Skills
 - **Frontend Development**: HTML, CSS, JavaScript
@@ -12,10 +12,6 @@ I'm a student of [The Odin Project](https://www.theodinproject.com/), currently 
 - Building small projects to practice and solidify my knowledge.
 - Exploring open-source contributions.
 
-## 🚀 Projects
-Here are some of the projects I've worked on:
-- **[Project Name](link)**: Short description of the project.
-- **[Project Name](link)**: Short description of the project.
 
 ## 📫 Get in Touch
 - **Email**: eliottlemoigne@gmail.com
